@@ -1,0 +1,2 @@
+com/jdu/aws/Application.java
+ com.jdu.aws.Application
