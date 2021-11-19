@@ -1,9 +1,7 @@
 package com.jdu.aws.web.dto;
 
-import com.jdu.aws.web.domain.posts.Posts;
-import lombok.Builder;
+import com.jdu.aws.domain.posts.Posts;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 
 @Getter
 public class PostsResponseDto {

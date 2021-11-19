@@ -1,6 +1,6 @@
 package com.jdu.aws.web.dto;
 
-import com.jdu.aws.web.domain.posts.Posts;
+import com.jdu.aws.domain.posts.Posts;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

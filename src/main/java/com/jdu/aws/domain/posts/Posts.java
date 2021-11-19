@@ -1,6 +1,6 @@
-package com.jdu.aws.web.domain.posts;
+package com.jdu.aws.domain.posts;
 
-import com.jdu.aws.web.domain.BaseTimeEntity;
+import com.jdu.aws.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

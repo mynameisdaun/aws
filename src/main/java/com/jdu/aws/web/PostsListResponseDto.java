@@ -1,13 +1,7 @@
 package com.jdu.aws.web;
 
-import com.jdu.aws.service.posts.PostsService;
-import com.jdu.aws.web.domain.posts.Posts;
-import com.jdu.aws.web.dto.PostsResponseDto;
-import com.jdu.aws.web.dto.PostsSaveRequestDto;
-import com.jdu.aws.web.dto.PostsUpdateRequestDto;
+import com.jdu.aws.domain.posts.Posts;
 import lombok.Getter;
-import lombok.RequiredArgsConstructor;
-import org.springframework.web.bind.annotation.*;
 
 import java.time.LocalDateTime;
 

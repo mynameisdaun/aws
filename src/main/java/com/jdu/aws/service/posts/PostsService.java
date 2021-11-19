@@ -1,8 +1,8 @@
 package com.jdu.aws.service.posts;
 
 import com.jdu.aws.web.PostsListResponseDto;
-import com.jdu.aws.web.domain.posts.Posts;
-import com.jdu.aws.web.domain.posts.PostsRepository;
+import com.jdu.aws.domain.posts.Posts;
+import com.jdu.aws.domain.posts.PostsRepository;
 import com.jdu.aws.web.dto.PostsResponseDto;
 import com.jdu.aws.web.dto.PostsSaveRequestDto;
 import com.jdu.aws.web.dto.PostsUpdateRequestDto;

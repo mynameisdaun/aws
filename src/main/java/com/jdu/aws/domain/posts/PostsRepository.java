@@ -1,4 +1,4 @@
-package com.jdu.aws.web.domain.posts;
+package com.jdu.aws.domain.posts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
