@@ -49,4 +49,4 @@ deploy:
 notifications:
   email:
     recipients:
-      - daun9870.jung@gmail.com#
+      - daun9870.jung@gmail.com
